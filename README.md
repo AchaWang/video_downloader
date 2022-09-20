@@ -9,6 +9,6 @@
 * Fill in information required then click download.
 * Downloaded videos will appear in "download" directory.
 
-###Contributor
+### Contributor
 * Acha Wang (https://github.com/AchaWang)
 * Terry Wang (https://github.com/wangterry88)
