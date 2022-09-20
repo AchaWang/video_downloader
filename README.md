@@ -5,7 +5,7 @@
 
 ### Usage Guide
 * Download zip file directly or use git clone.
-* After download you can open m3u8-downloader or youtub-downloader.bat 
+* After download you can open m3u8-downloader or youtube-downloader.bat 
 * Fill in information required then click download.
 * Downloaded videos will appear in "download" directory.
 
