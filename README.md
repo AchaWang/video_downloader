@@ -8,3 +8,7 @@
 * After download you can open m3u8-downloader or youtub-downloader.bat 
 * Fill in information required then click download.
 * Downloaded videos will appear in "download" directory.
+
+###Contributor
+* Acha Wang (https://github.com/AchaWang)
+* Terry Wang (https://github.com/wangterry88)
